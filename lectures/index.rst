@@ -6,6 +6,8 @@
 Computational Statistics in Python
 ==============================================================
 
+`Notebooks and problem sets from GitHub repository <https://github.com/cliburn/sta-663-2016.git>`_
+
 Contents:
 
 .. toctree::
@@ -26,8 +28,11 @@ Contents:
    08_LinearAlgebra2
    06_LinearAlgebraExamples
    PCA
-   
    SymbolicAlgebra
+   11_OptimizationOneDimension.ipynb
+   10_Optimization
+   Vector_Calculus
+
    Local_Installation
    Customizing_Jupyter
 
